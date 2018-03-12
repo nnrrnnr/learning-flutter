@@ -40,3 +40,8 @@ Flutterのキャッチアップに役立つリンク
 - 公式のサポートが手厚い : flutter doctor
 - VSCodeでかける
 - Hot Reload
+
+## Dev
+### .gitignore
+https://github.com/flutter/flutter/blob/master/.gitignore
+
