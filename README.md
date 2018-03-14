@@ -45,4 +45,3 @@ Flutterのキャッチアップに役立つリンク
 ## Dev
 ### .gitignore
 https://github.com/flutter/flutter/blob/master/.gitignore
-
